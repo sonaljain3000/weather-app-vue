@@ -1,4 +1,8 @@
-# vue-weather
+# Day1: 
+- finishing off vueJS tutorial on official website
+- Starting with making and building Weather app
+
+vue-weather
 
 ## Project setup
 ```
