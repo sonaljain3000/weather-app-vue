@@ -1,8 +1,9 @@
 # Day1: 
 - finishing off vueJS tutorial on official website
 - Starting with making and building Weather app
+- Find out UI bugs and searched for UX of diff websites
 
-vue-weather
+## vue-weather
 
 ## Project setup
 ```
